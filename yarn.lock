@@ -21,9 +21,10 @@
   resolved "https://registry.yarnpkg.com/@types/jest/-/jest-24.0.0.tgz#848492026c327b3548d92be0352a545c36a21e8a"
   integrity sha512-kOafJnUTnMd7/OfEO/x3I47EHswNjn+dbz9qk3mtonr1RvKT+1FGVxnxAx08I9K8Tl7j9hpoJRE7OCf+t10fng==
 
-"@types/node@^10.12.10":
-  version "10.12.10"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-10.12.10.tgz#4fa76e6598b7de3f0cb6ec3abacc4f59e5b3a2ce"
+"@types/node@^12.12.17":
+  version "12.12.17"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.12.17.tgz#191b71e7f4c325ee0fb23bc4a996477d92b8c39b"
+  integrity sha512-Is+l3mcHvs47sKy+afn2O1rV4ldZFU7W8101cNlOd+MRbjM4Onida8jSZnJdTe/0Pcf25g9BNIUsuugmE6puHA==
 
 abab@^2.0.0:
   version "2.0.0"
